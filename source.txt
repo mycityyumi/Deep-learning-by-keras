@@ -1,0 +1,14 @@
+ImageNet
+ - million of labeled pictures
+- used to train image
+
+ILSVRC
+
+- yearly image recognition
+dataset of 1000 types of common object
+-------------------------------------------------
+ Included image Recognition models
+- VGG (university of Oxford): 16 or 19 layers, take a lot of memory to run)
+- Resnet50 (microsoft research): 50 layer, use less memory than VGG
+- Inception-v3 (Google): performs very well
+- Xception (Francois Chollet, author of Keras): more accurate than Inception-v3, use same amounr of memory
